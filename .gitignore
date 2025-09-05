@@ -1,0 +1,7 @@
+*.o
+*.odt
+*.doc
+*.docx
+corretor.c
+gabarito.sh
+trabalho.sh
